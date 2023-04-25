@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/MohammadAmarena/MohammadAmarena/blob/main/profile-img.png" width="25%"/>
+  <img src="https://cdn.dribbble.com/users/1068771/screenshots/14225432/media/0da8c461ba3920a8c827d864a6e051ed.jpg" width="25%"/>
 </p>
 
 <div id="badges" align="center" >
