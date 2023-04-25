@@ -63,9 +63,9 @@
 <hr>
 
 <div align="left">
-  <a href="https://github.com/Belal-Aljumaa">
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=Belal-Aljumaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"></a>
- <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belal-Aljumaa&layout=compact&langs_count=7&theme=dracula">
+  <a href="https://github.com/MohammadAmarena">
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=MohammadAmarena&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"></a>
+ <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAmarena&layout=compact&langs_count=7&theme=dracula">
 </div>
 
 <hr>
