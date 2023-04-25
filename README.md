@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1068771/screenshots/14225432/media/0da8c461ba3920a8c827d864a6e051ed.jpg" width="25%"/>
+  <img src="https://cdn.dribbble.com/users/1068771/screenshots/14225432/media/0da8c461ba3920a8c827d864a6e051ed.jpg" width="35%"/>
 </p>
 
 <div id="badges" align="center" >
-<img src="https://komarev.com/ghpvc/?username=Mohammad Amaren&style=flat-square&color=blue" alt="" width="200px" height="50px"/>
+<img src="https://komarev.com/ghpvc/?username=MohammadAmarena&style=flat-square&color=blue" alt="" width="200px" height="50px"/>
 </div>
 
 <h1 align="center">Hi, I'm Mohammad 👋</h1>
