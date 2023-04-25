@@ -15,7 +15,7 @@
 </div>  
  
  <br>
-<p>I'm a Full-Stack developer and graphic designer. I really enjoy learning languages and frameworks, and working in WordPress. I also enjoy grid layout and design in general.</p>
+<p>As a Full-Stack developer, I have a passion for continually expanding my knowledge of various languages and frameworks. I find great satisfaction in learning and mastering new technologies, which enables me to develop more efficient and innovative solutions for my projects.</p>
 
 ### Languages I use:
 
