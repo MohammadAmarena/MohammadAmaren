@@ -74,6 +74,6 @@
 
 <div align="center"> 
   
- ⭐️⭐️⭐️ [Mohammad Amaren](https://github.com/MohammadAmarena) ⭐️⭐️⭐️ 
+ ⭐️⭐️⭐️ [Mohammad Amaren ](https://github.com/MohammadAmarena) ⭐️⭐️⭐️ 
   
 </div>
