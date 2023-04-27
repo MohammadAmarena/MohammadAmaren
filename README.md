@@ -44,6 +44,7 @@
 ### Hosting
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![hetzner](https://img.shields.io/badge/hetzner-%23000000.svg?style=for-the-badge&logo=hetzner&logoColor=red)
 
 ### Testing
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -64,8 +65,8 @@
 
 <div align="left">
   <a href="https://github.com/MohammadAmarena">
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=MohammadAmarena&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"></a>
- <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAmarena&layout=compact&langs_count=7&theme=dracula">
+  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=MohammadAmarena&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"></a>
+ <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAmarena&layout=compact&langs_count=7&theme=dracula">
 </div>
 
 <hr>
